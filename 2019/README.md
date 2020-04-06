@@ -2,7 +2,7 @@
 <h2>Foregone Solution</h2> <br>
 
 <h3>Problem</h3> <br>
-<p>Someone just won the Code Jam lottery, and we owe them N jamcoins! However, <b>when<b> we tried to <br>
+<p>Someone just won the Code Jam lottery, and we owe them N jamcoins! However, when we tried to <br>
 print out an oversized check, we encountered a problem. The value of N, which is </br>
 an integer, includes at least one digit that is a 4... and the 4 key on the </br>
 keyboard of our oversized check printer is broken.
@@ -14,8 +14,8 @@ values A and B that satisfy these conditions.<br>
 </p>
 <h3>Input</h3>
 
-<p>The first line of the input gives the number of test cases, T. T <br>
-test cases follow; each consists of one line with an integer N. <br></p>
+<p>The first line of the input gives the number of test cases, <b>T</b>. <b>T</b> <br>
+  test cases follow; each consists of one line with an integer <b>N</b>. <br></p>
 
 <h3>Output</h3>
 
