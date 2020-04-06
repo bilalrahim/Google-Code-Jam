@@ -14,8 +14,8 @@ values A and B that satisfy these conditions.<br>
 </p>
 <h3>Input</h3>
 
-<p>The first line of the input gives the number of test cases, T. T <br>
-test cases follow; each consists of one line with an integer N. <br></p>
+<p>The first line of the input gives the number of test cases, <b>T</b>. <b>T</b> <br>
+  test cases follow; each consists of one line with an integer <b>N</b>. <br></p>
 
 <h3>Output</h3>
 
